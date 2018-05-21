@@ -1,0 +1,16 @@
+body{
+
+  background-color:orange;
+}
+h1{
+  text-align: center;
+  color:seagreen;
+  font-size: 30px;
+  font-family: cursive;
+}
+h2,h3{
+  text-align: center;
+  color:crimson;
+  font-size: 100px;
+  font-family: sans-serif;
+}
